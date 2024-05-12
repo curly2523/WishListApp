@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">exam4</string>
+    <string name="add_your_wish">Add your wish</string>
+    <string name="enter_the_wish">Enter the wish</string>
+    <string name="notes">Notes</string>
+    <string name="wishes">Wishes</string>
+    <string name="wish">Wish</string>
+    <string name="content">Content</string>
+    <string name="edit_wish">Edit Wish</string>
+</resources>
